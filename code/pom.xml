@@ -15,4 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<build>
+<directory>/root/target</directory>
+</build>
 </project>
