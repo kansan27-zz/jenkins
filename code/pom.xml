@@ -32,16 +32,16 @@
   </dependencies>
   
   <distributionManagement>
-  <repository>
+   <repository>
     <id>nexus</id>
     <name>nexus_release</name>
     <url>http://10.44.99.190:8085/nexus/content/repositories/releases/</url>
-  <repository>
+   </repository>
   <snapshotRepository>
    <id>nexus</id> 
    <name>snapshots</name>
    <url>http://10.44.99.190:8085/nexus/content/repositories/snapshots/</url>
-  <snapshotRepository>
+  </snapshotRepository>
 
 </distributionManagement>
  
