@@ -4,4 +4,4 @@
    become_user: ansible
    tasks:
    - name: download file with check
-     get_url: url=http://10.44.99.190:8085/nexus/content/repositories/snapshots/src/code/1.0-SNAPSHOT/code-1.0-20160714.083415-1.jar dest=/home/.
+     get_url: url=http://10.44.99.190:8085/nexus/content/repositories/snapshots/src/code/1.0-SNAPSHOT/code-1.0-20160714.083415-1.jar dest=/tmp/.
