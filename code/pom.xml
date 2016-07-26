@@ -20,7 +20,10 @@
 	<version>1.12</version>
     </dependency>
   </dependencies>
+<<<<<<< HEAD
 
+=======
+>>>>>>> e82b485843b49d922f336df767f9c712b69f4da5
   
   <distributionManagement>
    <repository>
