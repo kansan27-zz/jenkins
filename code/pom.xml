@@ -29,7 +29,7 @@
    </repository>
   <snapshotRepository>
    <id>nexus</id> 
-   <name>snapshots</name>
+   <name>snapshots</name
    <url>http://10.44.99.190:8085/nexus/content/repositories/snapshots/</url>
   </snapshotRepository>
 
